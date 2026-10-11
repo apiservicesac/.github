@@ -44,8 +44,6 @@ Empezamos por analizar cómo trabaja cada empresa: documentamos los procesos, id
 | [**dooprint**](https://github.com/apiservicesac/dooprint) | Servicio de impresión para Odoo: un agente junto a las impresoras recibe los trabajos en tiempo real, con Odoo en la nube o en la misma red. |
 | [**dooprint-odoo**](https://github.com/apiservicesac/dooprint-odoo) | Módulos de Odoo para Dooprint: impresión, Punto de Venta y autopedido en impresoras de tickets USB o de red. |
 | [**s1grep**](https://github.com/apiservicesac/s1grep) | Búsqueda semántica de código en tu máquina: describe lo que hace el código, en español o inglés, y obtén la función exacta. Solo CPU, sin nube. |
-| [**odoo-plugin-manager**](https://github.com/apiservicesac/odoo-plugin-manager) | CLI ligera para desarrolladores Odoo: ejecuta tests, gestiona entornos y activa live reload. |
-| [**xhandler-rust**](https://github.com/apiservicesac/xhandler-rust) | Manejo de XML basados en UBL según los estándares de SUNAT para facturación electrónica. |
 
 ## Sectores
 
