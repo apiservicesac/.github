@@ -37,6 +37,16 @@ Empezamos por analizar cómo trabaja cada empresa: documentamos los procesos, id
 
 `01 Levantamiento` → `02 Diagnóstico` → `03 Diseño de la solución` → `04 Implementación` → `05 Adopción y soporte`
 
+## Nuestros productos
+
+### [Dooservice](https://dooservice.sh) · Panel de control para Odoo
+
+Crea entornos de Odoo, despliega desde GitHub, programa respaldos y recibe alertas, en servidores que siguen siendo tuyos. Con Claude Code y OpenCode en la consola.
+
+<a href="https://dooservice.sh"><img src="https://img.shields.io/badge/Web-dooservice.sh-714B67?style=flat-square" alt="dooservice.sh"></a>
+<a href="https://app.dooservice.sh"><img src="https://img.shields.io/badge/App-app.dooservice.sh-714B67?style=flat-square" alt="app.dooservice.sh"></a>
+<a href="https://github.com/dooservice"><img src="https://img.shields.io/badge/GitHub-@dooservice-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub @dooservice"></a>
+
 ## Código abierto
 
 | Proyecto | Descripción |
