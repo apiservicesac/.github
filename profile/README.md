@@ -45,10 +45,6 @@ Empezamos por analizar cómo trabaja cada empresa: documentamos los procesos, id
 | [**dooprint-odoo**](https://github.com/apiservicesac/dooprint-odoo) | Módulos de Odoo para Dooprint: impresión, Punto de Venta y autopedido en impresoras de tickets USB o de red. |
 | [**s1grep**](https://github.com/apiservicesac/s1grep) | Búsqueda semántica de código en tu máquina: describe lo que hace el código, en español o inglés, y obtén la función exacta. Solo CPU, sin nube. |
 
-## Sectores
-
-🏭 Manufactura · 📏 Calibración y metrología · 🛒 Retail y distribución · 🛠️ Servicios e ingeniería
-
 ## Tecnologías
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
